@@ -1,0 +1,17 @@
+
+output = int(input("output:"))
+fixed = int(input("fixed:"))
+variable = int(input("variable:"))
+
+Total = fixed + variable
+
+print("total:", Total)
+
+add = Total / output
+
+print("average cost:", add)
+
+
+
+
+             
